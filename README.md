@@ -1,6 +1,4 @@
-Here’s the **updated itinerary** without anime references, suitable for sharing with your parents.
 
----
 
 ### **Day 1: Tokyo - Shinjuku & Shibuya**
 1. **Suga Shrine**  
@@ -117,6 +115,3 @@ Here’s the **updated itinerary** without anime references, suitable for sharin
 3. **Kiyomizu-Dera Temple**  
    - **Address**: 1-294 Kiyomizu, Higashiyama Ward, Kyoto.  
 
----
-
-This version of the itinerary contains just the locations and addresses, making it parent-friendly while retaining all the key details. Let me know if there’s anything else you’d like to adjust!
